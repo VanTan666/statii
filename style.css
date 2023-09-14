@@ -27,3 +27,25 @@ body {
 .link {
     color: rgb(56, 154, 121);
 }
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left {
+    margin-right: 4%;
+}
+
+.right {
+    margin-left: 4%;
+}
+
+.size {
+    width: 260px;
+}
+
+.center {
+    text-align: center;
+}
