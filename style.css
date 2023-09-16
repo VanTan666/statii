@@ -49,3 +49,27 @@ body {
 .center {
     text-align: center;
 }
+
+.rr10 {
+    margin-right: 10px;
+}
+
+.imgs {
+    width: 200px;
+}
+
+.imgs2 {
+    width: 100px;
+}
+
+.m10 {
+    margin-right: 10px;
+}
+
+.grey {
+    color: grey;
+}
+
+.small {
+    font-size: 7px;
+}
